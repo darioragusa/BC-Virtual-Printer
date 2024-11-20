@@ -1,0 +1,31 @@
+{
+    "name": "Custom ruleset",
+    "description": "These rules must be respected by all the AL code written within the company.",
+    "rules": [
+        {
+            "id": "AS0051",
+            "action": "None",
+            "justification": "Manifest property is required for AppSource submission. Not mandatory"
+        },
+        {
+            "id": "AA0072",
+            "action": "None",
+            "justification": "The name of variables and parameters must be suffixed with the type or object name. Ok le best practices ma anche no"
+        },
+        {
+            "id": "AS0084",
+            "action": "None",
+            "justification": "The ID range assigned to the extension must be within the allowed range. Not mandatory"
+        },
+        {
+            "id": "AS0092",
+            "action": "None",
+            "justification": "The app.json file must specify an Azure Application Insights resource. Not mandatory"
+        },
+        {
+            "id": "AA0218",
+            "action": "None",
+            "justification": "You must write a tooltip in the Tooltip property for all controls of type Action and Field that exist on page objects. Tooltip not mandatory"
+        }
+    ]
+}

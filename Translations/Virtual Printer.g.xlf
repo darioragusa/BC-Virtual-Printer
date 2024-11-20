@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Virtual Printer">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 340493564 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Virtual Printer Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DRG VP Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 340493564 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DRG VP Setup - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 340493564 - Field 4185796606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print API URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table DRG VP Setup - Field Print API URL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2822173139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Print Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DRG VP Print Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2822173139 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DRG VP Print Setup - Control General - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

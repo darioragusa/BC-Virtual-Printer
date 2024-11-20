@@ -1,0 +1,33 @@
+{
+  "id": "b5359e7b-6f09-4b2b-8c77-1cd7f8cf864d",
+  "name": "Virtual Printer",
+  "publisher": "Dario Ragusa",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "https://github.com/darioragusa/BC-Virtual-Printer",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [
+    {
+      "from": 50150,
+      "to": 50199
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "14.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}

@@ -1,0 +1,14 @@
+{    
+    "al.codeAnalyzers": ["${AppSourceCop}","${CodeCop}", "${UICop}"],
+    "al.backgroundCodeAnalysis": true,
+    "al.enableCodeAnalysis": true,
+    //Regole di Rename automatico
+    "CRS.OnSaveAlFileAction": "Reorganize",
+    "CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+    "CRS.ObjectNamePrefix": "DRG VP ",
+    "CRS.RemovePrefixFromFilename": true,
+    //Regole definite dall'organizzazione per impostare quali warning non devono essere visualizzati
+    "al.ruleSetPath": "./Custom.ruleset.json" 
+}

@@ -1,0 +1,18 @@
+## --- AL gitignore ---
+## Ignores generated binary files and 
+## temporary files from Visual Studio and Visual Studio code
+## https://github.com/microsoft/AL/blob/master/.gitignore
+
+# Binary files
+.alpackages/
+*.app
+
+# Temp files
+.vs/
+.vscode/*
+!.vscode/settings.json
+.resources/AutoTranslate.json
+
+# Others
+~$*
+*~
